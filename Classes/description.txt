@@ -1,0 +1,33 @@
+Those cakes looks delicious!
+
+Everyone agree to say that your cakes have an uncomparable taste, yet no cooking school wanted to award you a diploma... Is that because of the secret ingredient? 
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Cook Goat: You can bake explosive cakes.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][E] + [R]:[/b] Bake a cake.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][X] + [Y]:[/b] Bake a cake.
+
+[b]CHARACTERISTICS[/b]
+- If a cake recieve too much damages, it will explode.
+- The cake explosion will make creamy every item and character near it.
+- For now there is no way to "clean" creamy stuff one by one.
+- Restart the map to clean everything.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The remote control of Spy Goat can be used to trigger cake explosions from a distance ;)[/spoiler]
+- [spoiler]The cake is a lie![/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Sometimes the creamy splash effect fail to appear after a cake explosion.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]The Payday map inspired people once again, and someone suggested to be able to make more of those explosive cakes that you can find at the birthday party ^^
+There was several cake models in the game already, so I didn't use the one you can see at the party on the Payday map, but another one that can be more easily identified as a cake in my opinion :)
+Taking the creamy explosion effect and adding it to that cake was not really hard, but I had to work a bit more than usual with the editor (and less with code) in order to link correctly the cake model with the correct explosive effect and sound.
+[/quote]
